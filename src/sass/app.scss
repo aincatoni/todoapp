@@ -1,0 +1,16 @@
+@import "base/base";
+@import "components/components";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/layout";
+@import "layout/main";
+@import "pages/home";
+@import "utilities/colors";
+
+/*ESTILOS TAILWIND*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*FONT AWESOME*/
+@import "node_modules/font-awesome/scss/font-awesome.scss";
